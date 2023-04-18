@@ -1,0 +1,23 @@
+{
+  "name": "requisicoes-web-javascript",
+  "version": "1.0.0",
+  "description": "requisicoes-web-javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelaMelvilhe/requisicoes-web-javascript.git"
+  },
+  "keywords": [],
+  "author": "Isabela Melvilhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelaMelvilhe/requisicoes-web-javascript/issues"
+  },
+  "homepage": "https://github.com/IsabelaMelvilhe/requisicoes-web-javascript#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
